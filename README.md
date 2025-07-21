@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mujeho
+# Hi there! 👋 This is Muje
 
 > **Full-Stack Developer & AI Enthusiast** passionate about building impactful solutions that bridge technology and real-world needs.
 
